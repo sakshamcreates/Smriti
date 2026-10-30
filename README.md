@@ -34,12 +34,11 @@
 |---|---|
 | **Project Title** | Smriti — AI-Based Cognitive Gaming and Memory Assistance Platform for Elderly Dementia Patients |
 | **PS ID** | SIH26003 |
-| **PS Title** | AI-Based Cognitive Gaming and Memory Assistance Platform for Elderly Dementia Patients in NER |
+ AI-Based Cognitive Gaming and Memory Assistance Platform for Elderly Dementia Patients in NER |
 | **Category** | Software |
 | **Theme** | MedTech / BioTech / HealthTech |
-| **Nodal Ministry** | Ministry of Development of North Eastern Region (MDoNER) |
-| **Team Name** | Design Divas |
-| **Institution** | Axis Institute of technology and management— Branch: ITNS |
+
+| **Institution** | Axis Institute of technology and management— Branch: CSE(AIML)|
 
 ---
 
@@ -61,7 +60,7 @@ Over **8.8 million Indians** live with dementia (2026), with **280,000–350,000
 
 | Tier | Channel | Reach |
 |---|---|---|
-| **Tier 1 (Core)** | Offline-first PWA + Meta WhatsApp AI companion bot | Any smartphone, even 2G |
+| **Tier 1 (Core)** | Offline-first PWA  | Any smartphone, even 2G |
 | **Tier 2 (Fallback)** | IVR automated voice calls + SMS alerts | Feature phones without internet |
 | **Tier 3 (Field Care)** | ASHA worker tablet mode with local sync | Door-to-door community screening |
 
@@ -170,15 +169,9 @@ Smriti/
 
 ---
 
-## 8. Final Presentation
 
-📊 The project presentation (PPT) is available on Google Drive (access: **Anyone with the link — Viewer**).
 
-> **[📥 View Presentation on Google Drive](https://docs.google.com/file/d/1ZMWVouCgjB8nl_J1NueILKSQ3ZTZmB5A/view)**
-
----
-
-## 9. Demo Video
+## 8. Demo Video
 
 🎬 A full product walkthrough demo video is available on YouTube.
 
@@ -186,7 +179,7 @@ Smriti/
 
 ---
 
-## 10. Screenshots / Prototype Photos
+## 9. Screenshots / Prototype Photos
 
 ### 👴 Patient Portal
 
@@ -245,7 +238,7 @@ Smriti/
 
 ---
 
-## 11. Installation
+## 10. Installation
 
 ```bash
 git clone https://github.com/gopalrajlohiya11-ui/Smriti.git
@@ -279,7 +272,7 @@ VITE_GOOGLE_CLIENT_ID=your_google_oauth_client_id
 
 ---
 
-## 12. Run
+## 11. Run
 
 ```bash
 # Terminal 1 — Backend
@@ -304,7 +297,7 @@ npm run dev    # http://localhost:5173
 
 ---
 
-## 13. Future Scope
+## 12. Future Scope
 
 | Phase | Milestone |
 |---|---|
@@ -321,16 +314,14 @@ npm run dev    # http://localhost:5173
 
 <div align="center">
 
-**Team Design Divas** — Smart India Hackathon 2026 · SIH26003 · ITNS, NSUT New Delhi
+**Team Paradox** — Axis institute of technology and management kanpur
 
 | # | Name |
 |:---:|:---|
-| 1 | **Gopal Raj Lohiya** |
-| 2 | **Aditya Rai Chauhan** |
-| 3 | **Mahir Kumar** |
-| 4 | **Hitarth Garg** |
-| 5 | **Mehak** |
-| 6 | **Diya Gautam** |
+| 1 | **saksham singh** |
+| 2 | **Shikhar Mishra** |
+| 3 | **Shashwat Srivastav** |
+| 4 | **saksham patel** |
 
 </div>
 
