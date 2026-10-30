@@ -39,7 +39,7 @@
 | **Theme** | MedTech / BioTech / HealthTech |
 | **Nodal Ministry** | Ministry of Development of North Eastern Region (MDoNER) |
 | **Team Name** | Design Divas |
-| **Institution** | NSUT, New Delhi — Branch: ITNS |
+| **Institution** | Axis Institute of technology and management— Branch: ITNS |
 
 ---
 
