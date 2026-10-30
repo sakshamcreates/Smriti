@@ -33,7 +33,7 @@
 | Field | Details |
 |---|---|
 | **Project Title** | Smriti — AI-Based Cognitive Gaming and Memory Assistance Platform for Elderly Dementia Patients |
-| **PS ID** | SIH26003 |
+
  AI-Based Cognitive Gaming and Memory Assistance Platform for Elderly Dementia Patients in NER |
 | **Category** | Software |
 | **Theme** | MedTech / BioTech / HealthTech |
