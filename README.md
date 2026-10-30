@@ -6,7 +6,7 @@
 
 [![Live Web App](https://img.shields.io/badge/Live%20App-smriti--puce.vercel.app-B5502E.svg?style=for-the-badge&logo=vercel)](https://smriti-puce.vercel.app)
 [![ML Engine](https://img.shields.io/badge/ML%20Engine-dementia--ai--engine.onrender.com-FF6B6B.svg?style=for-the-badge&logo=render)](https://dementia-ai-engine.onrender.com/docs)
-[![WhatsApp Bot](https://img.shields.io/badge/WhatsApp%20Bot-wa.me%2F15556680031-25D366.svg?style=for-the-badge&logo=whatsapp)](https://wa.me/15556680031?text=Hi%20Smriti)
+
 
 <br/>
 
