@@ -2,7 +2,7 @@
 
 # 🌸 Smriti (স্মৃতি / स्मृति)
 ### *AI-Powered Cognitive Care & Memory Companion Ecosystem for Elderly Dementia Patients*
-#### **Smart India Hackathon 2026 (SIH26003) • Ministry of Development of North Eastern Region (MDoNER)**
+
 
 [![Live Web App](https://img.shields.io/badge/Live%20App-smriti--puce.vercel.app-B5502E.svg?style=for-the-badge&logo=vercel)](https://smriti-puce.vercel.app)
 [![ML Engine](https://img.shields.io/badge/ML%20Engine-dementia--ai--engine.onrender.com-FF6B6B.svg?style=for-the-badge&logo=render)](https://dementia-ai-engine.onrender.com/docs)
