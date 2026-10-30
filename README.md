@@ -35,7 +35,9 @@
 | **Project Title** | Smriti — AI-Based Cognitive Gaming and Memory Assistance Platform for Elderly Dementia Patients |
 
  AI-Based Cognitive Gaming and Memory Assistance Platform for Elderly Dementia Patients in NER |
+ 
 | **Category** | Software |
+
 | **Theme** | MedTech / BioTech / HealthTech |
 
 | **Institution** | Axis Institute of technology and management— Branch: CSE(AIML)|
