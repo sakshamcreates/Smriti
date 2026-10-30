@@ -294,8 +294,6 @@ npm run dev    # http://localhost:5173
 | 🌐 **Live Web App** | [smriti-puce.vercel.app](https://smriti-puce.vercel.app) |
 | ⚙️ **Backend API** | [smriti-backend-nwrl.onrender.com](https://smriti-backend-nwrl.onrender.com/api/health) |
 | 🧠 **Live ML Engine** | [dementia-ai-engine.onrender.com](https://dementia-ai-engine.onrender.com/docs) |
-| 💻 **ML Engine Source** | [github.com/adityaraichauhan/Dementia-AI-engine](https://github.com/adityaraichauhan/Dementia-AI-engine) |
-| 📱 **WhatsApp Bot** | [wa.me/15556680031](https://wa.me/15556680031?text=Hi%20Smriti) |
 
 ---
 
